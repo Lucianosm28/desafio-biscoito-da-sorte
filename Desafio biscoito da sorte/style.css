@@ -22,7 +22,7 @@ body{
     height: 100vh;
     margin-top: 5rem;
     background: linear-gradient(45deg, #190361, #bb00ff);
-	  background-size: 200% 200%;
+    background-size: 200% 200%;
     animation: gradient 10s ease infinite;
     
 }
